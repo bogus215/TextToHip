@@ -13,7 +13,8 @@
 본 프로젝트 결과물 성능 평가 
 
 ## 설치 방법
-설치 방법 
+`pip install -r requirements.txt` 
 
 ## 모델 학습 방법
 모델 학습 방법 
+`pip install `
