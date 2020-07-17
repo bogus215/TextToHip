@@ -11,8 +11,9 @@ https://cafe.naver.com/bitamin123/1586
 ![image](https://user-images.githubusercontent.com/53327766/87830869-f9e28400-c8bc-11ea-892b-5d7e5f4bcc68.png)
 
 
-## 성능 평가
-본 프로젝트 결과물 성능 평가 
+## 프로젝트 결과
+![image](https://user-images.githubusercontent.com/53327766/87831333-2ba81a80-c8be-11ea-9faf-b28fd63081b9.png)
+
 
 ## 설치 방법
 `pip install -r requirements.txt` 
