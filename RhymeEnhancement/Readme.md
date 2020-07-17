@@ -18,5 +18,5 @@ Rhyme Score
     - 마지막 글자를 L, 그 앞 글자를 postL이라고 할 때, Ryhme Score는 다음과 같다.
         Rhyme Score = Score(postL)*0.25 + Score(L)*0.75
 
-> 정리
+
 
